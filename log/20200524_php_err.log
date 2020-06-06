@@ -1,0 +1,11 @@
+稼働日,時間,host,業務,Login,Lognm,入力パラメータ
+20200524,14:08:16,DESKTOP-Q2KEN7I,exception 'PDOException' with message 'invalid data source name' in C:\xampp5.6.40\htdocs\WMS\HTP172N\HTP172N_display.php:143
+Stack trace:
+#0 C:\xampp5.6.40\htdocs\WMS\HTP172N\HTP172N_display.php(143): PDO->__construct('', NULL, NULL, Array)
+#1 {main}で
+DB障害により大変ご迷惑をお掛けしております。,,,
+20200524,14:08:16,DESKTOP-Q2KEN7I,exception 'PDOException' with message 'invalid data source name' in C:\xampp5.6.40\htdocs\WMS\HTP172N\HTP172N_display.php:143
+Stack trace:
+#0 C:\xampp5.6.40\htdocs\WMS\HTP172N\HTP172N_display.php(143): PDO->__construct('', NULL, NULL, Array)
+#1 {main}で
+DB障害により大変ご迷惑をお掛けしております。,,,
